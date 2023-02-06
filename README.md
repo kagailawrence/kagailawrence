@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
 </div>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lawrence Maina
+Hi My name is Lawrence Maina
 ======================================================================================================================================
 
-FullStack web Developer
------------------------
+FullStack web Developer| Expericed with Qt,QMl
+-----------------------------------------------
 
 * 🌍  I'm based in Nyeri Kenya
 * ✉️  You can contact me at [mainalawrence32@gmail.com](mailto:mainalawrence32@gmail.com)
