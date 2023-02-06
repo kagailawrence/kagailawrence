@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Lawrence Maina Kagai</h1>
-<h3 align="center">A Passionate Fullstack web Developer | Experiwnced With Qt(C++) and Qml</h3>
+<h3 align="center">A Passionate Fullstack web Developer | Experinced With Qt(C++) and Qml</h3>
 
 - 🌱 I’m currently learning React and building projects using HTML, CSS, and JavaScript. 
 
