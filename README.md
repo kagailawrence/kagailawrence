@@ -4,6 +4,14 @@
 
 Hi 👋 My name is Lawrence Maina
 ===============================
+**ABout Me:**
+I'm a passionate, focused Fullstack web developer, and software development mentor. 
+
+I've worked with startups and middle businesses from the United States, Canada, France, Germany, Kenya, etc 
+ 
+I am currently learning about cloud computing and DevOps. all about Docker, Kubernetes as well as system designs and architecture.
+
+If you're looking for a passionate full-stack web developer, Mobile app developer, or Desktop application developer with Qt(C++) contact me now so we get started. I'll be happy to see your authority, impact, and revenue growth.
 
 FullStack web Developer | Qt C++ QML | Flutter
 ----------------------------------------------
