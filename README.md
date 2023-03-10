@@ -5,6 +5,7 @@
 Hi 👋 My name is Lawrence Maina
 ===============================
 **ABout Me:**
+
 I'm a passionate, focused Fullstack web developer, and software development mentor. 
 
 I've worked with startups and middle businesses from the United States, Canada, France, Germany, Kenya, etc 
