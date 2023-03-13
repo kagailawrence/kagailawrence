@@ -22,7 +22,7 @@ FullStack web Developer | Qt C++ QML | Flutter
 * ✉️  You can contact me at [mainalawrence32@gmail.com](mailto:mainalawrence32@gmail.com)
 * 🧠  I'm learning Docker and Kubernetes
 * 🤝  I'm open to collaborating on | Nodejs| Angular| React |Docker | C++ with Qt | Qml
-* ⚡  My friends reffers my Laptop as my Wife
+* ⚡  My friends reffers to my Laptop as my Wife because i never leave it behind 
 * 📙 In my free time, I like reading Books.
 * 🤝 I’m looking forward to collaborate on projects.
 * 💬 Ask me about **JavaScript| Nodejs | Qt |Qml | C++**
