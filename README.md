@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
 </div>
 
-Hi 👋 My name is Lawrence Maina
+Hi 👋, I am Lawrence Maina
 ===============================
 **ABout Me:**
 
