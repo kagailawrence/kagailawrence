@@ -19,7 +19,7 @@ FullStack web Developer | Qt C++ QML | Flutter
 
 * 🌍  I'm based in Nyeri (Kenya)
 * 🖥️  See my portfolio at [kjbrightech.netlify.app](http://kjbrightech.netlify.app)
-* ✉️  You can contact on whats app [+254740938029](+254740938029)
+* ✉️  You can contact on whats app [+254740938029](https://wa.link/0xdff7)
 * 🧠  I'm learning Docker and Kubernetes
 * 🤝  I'm open to collaborating on | Nodejs| Angular| React |Docker | C++ with Qt | Qml
 * ⚡  My friends reffers to my Laptop as my Wife because i never leave it behind 
