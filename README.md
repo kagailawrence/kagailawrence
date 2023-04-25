@@ -25,7 +25,7 @@ FullStack web Developer | Qt C++ QML | Flutter
 * ⚡  My friends reffers to my Laptop as my Wife because i never leave it behind 
 * 📙 In my free time, I like reading Books.
 * 🤝 I’m looking forward to collaborate on projects.
-* 💬 Ask me about **JavaScript| Nodejs | Qt |Qml | C++**
+* 💬 Ask me about **JavaScript | TypeScript| Nodejs | Qt |Qml | C++**
 * 📫 How to reach me **mainalawrence32@gmail.com**
 
 
