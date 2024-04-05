@@ -17,7 +17,7 @@ If you're looking for a passionate full-stack web developer, Mobile app develope
 FullStack web Developer | Qt C++ QML | Flutter
 ----------------------------------------------
 
-* 🌍  I'm based in Nyeri (Kenya)
+* 🌍  I'm based in Nairobi (Kenya)
 * 🖥️  See my portfolio at [kjbrightech.netlify.app](http://kjbrightech.netlify.app)
 * ✉️  You can contact on whats app [+254740938029](https://wa.link/0xdff7)
 * 🧠  I'm learning Docker and Kubernetes
