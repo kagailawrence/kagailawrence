@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://scontent.cdninstagram.com/v/t51.29350-15/436472731_453545297242205_8889587431707621726_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=Q7LASw7HEy0Ab4UFfSu&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzMzOTYyODI3MDE2NzYzMTM1Mg%3D%3D.2-ccb7-5&oh=00_AfBeW-2CBVhLd8BbGy3t6JBH-i2kj70LMuz1ffpvuvJeDQ&oe=661949CD&_nc_sid=10d13b" width="650" height="300"/>
+  <img src="https://scontent.cdninstagram.com/v/t51.29350-15/436472731_453545297242205_8889587431707621726_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=Q7LASw7HEy0Ab4UFfSu&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzMzOTYyODI3MDE2NzYzMTM1Mg%3D%3D.2-ccb7-5&oh=00_AfBeW-2CBVhLd8BbGy3t6JBH-i2kj70LMuz1ffpvuvJeDQ&oe=661949CD&_nc_sid=10d13b" 
+ />
 </div>
 
 Hi 👋, I am Lawrence Maina
 ===============================
-**ABout Me:**
+**About Me:**
 
 I'm a passionate, focused Fullstack web developer, and software development mentor. 
 
