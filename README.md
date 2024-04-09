@@ -12,21 +12,21 @@ I'm a passionate, focused Fullstack web developer, and software development ment
 
 I've worked with startups and middle businesses from the United States, Canada, France, Germany, Kenya, etc 
  
-I am currently learning about cloud computing and DevOps. all about Docker, Kubernetes as well as system designs and architecture.
+I am currently learning about cloud computing and DevOps.all about Docker, Kubernetes, system designs, and architecture.
 
-If you're looking for a passionate full-stack web developer, Mobile app developer, or Desktop application developer with Qt(C++) contact me now so we get started. I'll be happy to see your authority, impact, and revenue growth.
+If you're looking for a passionate full-stack web developer, Mobile app developer, or Desktop application developer with Qt(C++) contact me now so we can get started. I'll gladly see your authority, impact, and revenue growth.
 
 FullStack web Developer | Qt C++ QML | Flutter
 ----------------------------------------------
 
 * 🌍  I'm based in Nairobi (Kenya)
 * 🖥️  See my portfolio at [kjbrightech.netlify.app](http://kjbrightech.netlify.app)
-* ✉️  You can contact on whats app [+254740938029](https://wa.link/0xdff7)
+* ✉️  You can contact me on whats app [+254740938029](https://wa.link/0xdff7)
 * 🧠  I'm learning Docker and Kubernetes
 * 🤝  I'm open to collaborating on | Nodejs| Angular| React |Docker | C++ with Qt | Qml
-* ⚡  My friends reffers to my Laptop as my Wife because i never leave it behind 
+* ⚡  My friends refer to my Laptop as my Wife because I never leave it behind 
 * 📙 In my free time, I like reading Books.
-* 🤝 I’m looking forward to collaborate on projects.
+* 🤝 I’m looking forward to collaborating on projects.
 * 💬 Ask me about **JavaScript | TypeScript| Nodejs | Qt |Qml | C++**
 * 📫 How to reach me **mainalawrence32@gmail.com**
 
