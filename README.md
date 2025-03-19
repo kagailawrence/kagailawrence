@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mainalawrence/law-portfolio/master/WEB%20DEVELOPER%20(2).png" 
-     width="100%" height='500px'
- />
-</div>
-
 Hi 👋, I am Lawrence Maina
 ===============================
 **About Me:**
