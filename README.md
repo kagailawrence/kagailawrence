@@ -28,18 +28,16 @@ Other: Puppeteer automation, SEO & AI-powered content generation, WebSocket comm
 
 If you're looking for someone who lives and breathes software development, who cares about your product’s performance, growth, and user experience — then let’s talk.
 
-📩 Reach out today — and let’s build something powerful that makes an impact.
+📩 Reach out today, and let’s build something powerful that makes an impact.
 ----------------------------------------------
-
-* 🌍  I'm based in Nairobi (Kenya)
-* 🖥️  See my portfolio at [kjbrightech.netlify.app](https://dazzcode-website.vercel.app)
+* 🖥️  See my portfolio at [dazzcode](https://dazzcode-website.vercel.app)
 * ✉️  You can contact me on WhatsApp [+254740938029](https://wa.link/0xdff7)
 * 🧠  I'm learning Docker and Kubernetes
 * 🤝  I'm open to collaborating on | Nodejs| Angular| React |Docker | C++ with Qt | Qml
 * ⚡  My friends refer to my Laptop as my Wife because I never leave it behind 
 * 📙 In my free time, I like reading Books.
 * 🤝 I’m looking forward to collaborating on projects.
-* 💬 Ask me about **JavaScript | TypeScript| Nodejs | Qt |Qml | C++**
+* 💬 Ask me about **RUST | TypeScript| Nodejs | Qt| C++**
 * 📫 How to reach me **mainalawrence32@gmail.com**
 
 
