@@ -1,21 +1,39 @@
 Hi 👋, I am Lawrence Maina
 ===============================
 **About Me:**
+Meet Your Passionate Full-Stack Developer & Software Architect
 
-I'm a passionate, focused Fullstack web developer, and software development mentor. 
+I’m a focused, passionate Full-Stack Web Developer and Software Development Mentor with an unshakable love for building software. For me, development isn’t just a career — it’s a lifestyle. My only hobbies? Creating innovative software, hacking systems to understand them better, and diving deep into technical books on architecture, algorithms, and system design.
 
-I've worked with startups and middle businesses from the United States, Canada, France, Germany, Kenya, etc 
- 
-I am currently learning about cloud computing and DevOps.all about Docker, Kubernetes, system designs, and architecture.
+Over the years, I’ve worked with startups and mid-sized businesses from the United States, Canada, France, Germany, Kenya, and beyond — helping them build scalable platforms, beautiful applications, and efficient digital systems that drive real business results.
 
-If you're looking for a passionate full-stack web developer, Mobile app developer, or Desktop application developer with Qt(C++) contact me now so we can get started. I'll gladly see your authority, impact, and revenue growth.
+💡 Whether you're a founder looking to build your MVP fast, a CTO scaling systems, or a team needing expert development guidance, I bring experience, energy, and execution.
 
-FullStack web Developer | Qt C++ QML | Flutter
+🔧 My Core Skills:
+Frontend: React, Next.js, TypeScript, Tailwind CSS
+
+Backend: Node.js, Express, PostgreSQL, MongoDB, REST, GraphQL
+
+Mobile: React Native, Flutter
+
+Desktop: Qt (C++)
+
+DevOps & Cloud: Docker, Kubernetes, NGINX, CI/CD pipelines, Linux, AWS (learning focus)
+
+Architecture: System design, microservices, event-driven systems, API-first design
+
+Other: Puppeteer automation, SEO & AI-powered content generation, WebSocket communication, MQL5 trading bots
+
+📚 Outside of coding, you’ll find me reading deep technical books on software craftsmanship, system scalability, and infrastructure design — constantly sharpening my skills.
+
+If you're looking for someone who lives and breathes software development, who cares about your product’s performance, growth, and user experience — then let’s talk.
+
+📩 Reach out today — and let’s build something powerful that makes an impact.
 ----------------------------------------------
 
 * 🌍  I'm based in Nairobi (Kenya)
 * 🖥️  See my portfolio at [kjbrightech.netlify.app](https://dazzcode-website.vercel.app)
-* ✉️  You can contact me on whats app [+254740938029](https://wa.link/0xdff7)
+* ✉️  You can contact me on WhatsApp [+254740938029](https://wa.link/0xdff7)
 * 🧠  I'm learning Docker and Kubernetes
 * 🤝  I'm open to collaborating on | Nodejs| Angular| React |Docker | C++ with Qt | Qml
 * ⚡  My friends refer to my Laptop as my Wife because I never leave it behind 
