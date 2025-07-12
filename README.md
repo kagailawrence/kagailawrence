@@ -1,4 +1,4 @@
-Hi 👋, I am Lawrence Maina
+Hi 👋, I am Lawrence
 ===============================
 **About Me:**
 Meet Your Passionate Full-Stack Developer & Software Architect
