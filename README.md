@@ -32,8 +32,7 @@ If you're looking for someone who lives and breathes software development, who c
 ----------------------------------------------
 * 🖥️  See my portfolio at [dazzcode](https://dazzcode-website.vercel.app)
 * ✉️  You can contact me on WhatsApp [+254740938029](https://wa.link/0xdff7)
-* 🧠  I'm learning Docker and Kubernetes
-* 🤝  I'm open to collaborating on | Nodejs| Angular| React |Docker | C++ with Qt | Qml
+* 🤝  I'm open to collaborating on | Nodejs| React |Docker | C++ with Qt | Qml | LLMS
 * ⚡  My friends refer to my Laptop as my Wife because I never leave it behind 
 * 📙 In my free time, I like reading Books.
 * 🤝 I’m looking forward to collaborating on projects.
@@ -68,5 +67,3 @@ src="https://img.shields.io/twitter/follow/Lawrenc98672279?logo=twitter&style=fo
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 
 </p>
-
-<a href="https://github.com/mainalawrence" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainalawrence&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
