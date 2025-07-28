@@ -1,6 +1,3 @@
-100% of your text is likely AI-generated
-
-New version:
 Hey there, I’m Lawrence!
 ===============================
 **A Little About Me:**
